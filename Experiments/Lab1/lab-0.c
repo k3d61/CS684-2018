@@ -1,17 +1,6 @@
 /*
-
-* Author: Texas Instruments 
-
-* Editted by: Saurav Shandilya, Vishwanathan Iyer 
-	      ERTS Lab, CSE Department, IIT Bombay
-
-* Description: This code will test file to check software and hardware setup. This code will blink three colors of RGB LED present of Launchpad board in sequence.  
-
-* Filename: lab-0.c 
-
-* Functions: setup(), led_pin_config(), main()  
-
-* Global Variables: none
+ * Author: Kedar Anavardekar
+ * Roll No.  : 17305R006
 
 */
 
